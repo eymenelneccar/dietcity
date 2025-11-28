@@ -4,7 +4,7 @@
     "name": "فيلاديلفيا",
     "category": "السندويش",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/7c730723-c235-48bf-9705-9365f9c88cc5.jpeg",
     "description": "",
     "variants": []
   },
@@ -13,7 +13,7 @@
     "name": "فاهيتا لحم",
     "category": "السندويش",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/56df78d5-f317-4817-a501-f86b993e2636.jpeg",
     "description": "",
     "variants": []
   },
@@ -22,7 +22,7 @@
     "name": "فاهيتا دجاج",
     "category": "السندويش",
     "price": 5000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/6becb63d-0163-49fa-8ff2-d3a018ae6da4.jpeg",
     "description": "",
     "variants": []
   },
@@ -31,7 +31,7 @@
     "name": "فاهيتا دجاج بالجبن",
     "category": "السندويش",
     "price": 5500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/6becb63d-0163-49fa-8ff2-d3a018ae6da4.jpeg",
     "description": "",
     "variants": []
   },
@@ -40,7 +40,7 @@
     "name": "ستيك لحم",
     "category": "السندويش",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/eff131e1-3058-49cf-b3cb-6f82fd79c036.jpeg",
     "description": "",
     "variants": []
   },
@@ -49,7 +49,7 @@
     "name": "ستيك لحم بالجبن",
     "category": "السندويش",
     "price": 6500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/3661af28-4923-4fa9-a1ab-d07803201d8a.jpeg",
     "description": "",
     "variants": []
   },
@@ -58,7 +58,7 @@
     "name": "ستيك دجاج",
     "category": "السندويش",
     "price": 5000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/e36501b7-e269-437c-93ab-f805234ee58f.jpeg",
     "description": "",
     "variants": []
   },
@@ -67,7 +67,7 @@
     "name": "دجاج مقطع بالجبن",
     "category": "السندويش",
     "price": 5500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/58571b96-f452-481f-9809-b7a9c43b7cb5.jpeg",
     "description": "",
     "variants": []
   },
@@ -76,7 +76,7 @@
     "name": "فرانسيسكو",
     "category": "السندويش",
     "price": 5500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/285aa344-0726-4a1f-ac01-5e896070867a.jpeg",
     "description": "",
     "variants": []
   },
@@ -85,7 +85,7 @@
     "name": "سيزر دجاج",
     "category": "السندويش",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/f6c14834-efe1-41bf-b1f6-152144b91fb5.jpeg",
     "description": "",
     "variants": []
   },
@@ -94,7 +94,7 @@
     "name": "شيش طاوق",
     "category": "السندويش",
     "price": 5000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/22c23540-eafe-4baf-bd85-0c83dbc04601.jpeg",
     "description": "",
     "variants": []
   },
@@ -103,7 +103,7 @@
     "name": "تونا بالخضار",
     "category": "السندويش",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/7cb09137-1a05-451b-a01c-6beb40c3d9f4.jpeg",
     "description": "",
     "variants": []
   },
@@ -112,7 +112,7 @@
     "name": "بركر كلاسك",
     "category": "البركر",
     "price": 4500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/67811535-cd00-4470-b7ce-47230bcb1825.jpeg",
     "description": "",
     "variants": []
   },
@@ -121,7 +121,7 @@
     "name": "جيز بركر",
     "category": "البركر",
     "price": 5000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/c5fc633e-eb46-46e5-9e19-34efba11fe3a.jpeg",
     "description": "",
     "variants": []
   },
@@ -130,7 +130,7 @@
     "name": "باربيكيو بركر",
     "category": "البركر",
     "price": 5000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/51969de3-7376-46a2-bcc1-831cace6a663.jpeg",
     "description": "",
     "variants": []
   },
@@ -139,7 +139,7 @@
     "name": "مشروم بركر",
     "category": "البركر",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/7d58ebe3-19a1-459e-84c7-cfaf27632618.jpeg",
     "description": "",
     "variants": []
   },
@@ -148,7 +148,7 @@
     "name": "بركر دايت ستي",
     "category": "البركر",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/9dda0fc9-9bc8-4f44-885e-8fcd62b402ad.jpeg",
     "description": "",
     "variants": []
   },
@@ -157,7 +157,7 @@
     "name": "بركر دجاج",
     "category": "البركر",
     "price": 4000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/2ec380c2-a5c8-4114-a088-7a9007d6a80b.jpeg",
     "description": "",
     "variants": []
   },
@@ -166,7 +166,7 @@
     "name": "بركر دجاج بالجبن",
     "category": "البركر",
     "price": 4500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/5b577c71-7273-4961-8358-2d39db1f0289.jpeg",
     "description": "",
     "variants": []
   },
@@ -175,7 +175,7 @@
     "name": "بركر دجاج بالفطر",
     "category": "البركر",
     "price": 5500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/21899e8a-9564-4e8b-b56b-fe70f29384f9.jpeg",
     "description": "",
     "variants": []
   },
@@ -184,7 +184,7 @@
     "name": "بركر دجاج بالخضار",
     "category": "البركر",
     "price": 5500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/5b5f8f6c-0de0-4ab4-9442-acf7107a88cb.jpeg",
     "description": "",
     "variants": []
   },
@@ -211,7 +211,7 @@
     "name": "سلطة عربية",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/c80c3e33-2bd5-4b6d-80fa-59e17c4be530.jpeg",
     "description": "",
     "variants": []
   },
@@ -220,7 +220,7 @@
     "name": "سلطة تونا",
     "category": "المقبلات",
     "price": 4000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/fc9388dc-06b3-40bd-b964-9de24ab89ce7.jpeg",
     "description": "",
     "variants": []
   },
@@ -229,7 +229,7 @@
     "name": "سلطة خس",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/a3dcd77a-86c3-4f44-8266-a0e17a4cd8a3.jpeg",
     "description": "",
     "variants": []
   },
@@ -238,16 +238,16 @@
     "name": "جاجيك",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/5c1d88de-a04d-482e-8678-3e6af9c67135.jpeg",
     "description": "",
     "variants": []
   },
   {
     "id": 1764176045504,
-    "name": "تبولة",
-    "category": "المقبلات",
-    "price": 3000,
-    "imageUrl": "",
+    "name": "سيزر دجاج",
+    "category": "السندويش",
+    "price": 6000,
+    "imageUrl": "assets/images/f6c14834-efe1-41bf-b1f6-152144b91fb5.jpeg",
     "description": "",
     "variants": []
   },
@@ -256,7 +256,7 @@
     "name": "ماش بتيتو",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/395cdfa5-bed7-4d1a-a22d-2e6932ddaced.jpeg",
     "description": "",
     "variants": []
   },
@@ -265,7 +265,7 @@
     "name": "طبق ذرة",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/5143a442-a849-47e2-9f70-a4e0799ba5fb.jpeg",
     "description": "",
     "variants": []
   },
@@ -274,7 +274,7 @@
     "name": "لهنة حامضة",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/a17f476a-07a1-427c-8241-3898230f80af.jpeg",
     "description": "",
     "variants": []
   },
@@ -283,7 +283,7 @@
     "name": "سلطة لهنة بيضه",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/ee854a85-7464-46e0-8a3e-31622724e7ec.jpeg",
     "description": "",
     "variants": []
   },
@@ -292,7 +292,7 @@
     "name": "لهنة حلوة",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/58112c66-bd9c-4509-a979-6d8460db94a2.jpeg",
     "description": "",
     "variants": []
   },
@@ -301,7 +301,7 @@
     "name": "سلطة لهنة حمرة",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/b709a08b-6c31-4f11-ac3e-f8e9e4146491.jpeg",
     "description": "",
     "variants": []
   },
@@ -310,7 +310,7 @@
     "name": "سلطة سيزر دجاج",
     "category": "المقبلات",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/d1f37107-27f6-44a3-a1cc-674d89153398.jpeg",
     "description": "",
     "variants": []
   },
@@ -319,7 +319,7 @@
     "name": "سلطة جرجير",
     "category": "المقبلات",
     "price": 4000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/fc07a807-e7aa-424b-bc85-0d8112c15ca4.jpeg",
     "description": "",
     "variants": []
   },
@@ -328,7 +328,7 @@
     "name": "معكرونة حمراء",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/768d9607-d95a-4b91-8f70-897ea6bafc6c.jpeg",
     "description": "",
     "variants": []
   },
@@ -337,7 +337,7 @@
     "name": "معكرونة بيضاء",
     "category": "المقبلات",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/39925834-1473-4b1c-bfcb-ff6a9eeef91e.jpeg",
     "description": "",
     "variants": []
   },
@@ -346,7 +346,7 @@
     "name": "بيض وطماطة",
     "category": "وجبات الافطار",
     "price": 3500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/33c7133d-da7f-4708-a50a-4913e1c7cb23.jpeg",
     "description": "",
     "variants": []
   },
@@ -355,7 +355,7 @@
     "name": "مخلمة لحم",
     "category": "وجبات الافطار",
     "price": 5000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/6b11ebbd-bbdd-4482-9ea6-3e24d3b0a3f3.jpeg",
     "description": "",
     "variants": []
   },
@@ -364,7 +364,7 @@
     "name": "فطيرة شوفان",
     "category": "وجبات الافطار",
     "price": 5000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/10261f4d-b8a0-4a21-a670-3923192b73e5.jpeg",
     "description": "",
     "variants": []
   },
@@ -373,7 +373,7 @@
     "name": "وجبة بيض مسلوق",
     "category": "وجبات الافطار",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/d67e8995-e50d-4747-b73c-00fc6f6787f2.jpeg",
     "description": "",
     "variants": []
   },
@@ -382,7 +382,7 @@
     "name": "بيض اومليت",
     "category": "وجبات الافطار",
     "price": 3500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/aaed7458-fdf3-4f21-8897-deedabb989c0.jpeg",
     "description": "",
     "variants": []
   },
@@ -391,7 +391,7 @@
     "name": "بيض اومليت بالجبن",
     "category": "وجبات الافطار",
     "price": 4000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/7324e524-765c-41f7-83f2-9be3f10abf0e.jpeg",
     "description": "",
     "variants": []
   },
@@ -400,7 +400,7 @@
     "name": "بيض اومليت بالخضار",
     "category": "وجبات الافطار",
     "price": 4000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/379b0f3c-0680-4a68-a6a1-f2ae47935be3.jpeg",
     "description": "",
     "variants": []
   },
@@ -409,7 +409,7 @@
     "name": "بيض اومليت بالفطر",
     "category": "وجبات الافطار",
     "price": 4000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/04cc8f9b-0187-463f-82fd-9d0509d2b83e.jpeg",
     "description": "",
     "variants": []
   },
@@ -418,7 +418,7 @@
     "name": "صدر دجاج",
     "category": "الدجاج",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/f8c30384-46fe-47be-9a32-744bb8dbbc24.jpeg",
     "description": "قطعتين صدر دجاج مشوي - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -427,7 +427,7 @@
     "name": "صدر دجاج بالليمون",
     "category": "الدجاج",
     "price": 7000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/93c8d903-a8da-40fb-b6d9-327c515db431.jpeg",
     "description": "قطعتين صدر دجاج مشوي - صلصة الليمون - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -436,7 +436,7 @@
     "name": "فاهيتا دجاج",
     "category": "الدجاج",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/6e099d21-d354-47e0-9f09-fc66215ffa29.jpeg",
     "description": "قطع صدر دجاج - فلفل الوان - بصل - فطر - ذرة - فاصوليا حمراء - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -445,7 +445,7 @@
     "name": "فاهيتا دجاج بالجبن",
     "category": "الدجاج",
     "price": 7000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/ec1aa26f-f73b-4a70-bf99-b1b9141230c0.jpeg",
     "description": "قطع صدر دجاج - فلفل الوان - بصل - فطر - ذرة - فاصوليا حمراء - جبن موزريلا لايت - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -454,7 +454,7 @@
     "name": "صدر دجاج بالزعتر",
     "category": "الدجاج",
     "price": 7000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/cee6c3ee-3bac-44e7-b6d2-486481e96d48.jpeg",
     "description": "قطعتين صدر دجاج مشوي - صلصة الزعتر - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -463,7 +463,7 @@
     "name": "صدر دجاج الفريدو",
     "category": "الدجاج",
     "price": 7000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/76c22fec-c74b-4e6e-92c7-01047889076a.jpeg",
     "description": "قطعتين صدر دجاج مشوي - صلصة الالفريدو البيضاء - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -472,7 +472,7 @@
     "name": "شيش طاووق",
     "category": "الدجاج",
     "price": 7000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/845168c3-1b48-4ee6-8c02-e81c7c8b731a.jpeg",
     "description": "شيشين قطع دجاج متبل - فلفل الوان - بصل - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -481,7 +481,7 @@
     "name": "دجاج فرانسيسكو",
     "category": "الدجاج",
     "price": 7500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/baca0ff4-9efd-49ef-a77e-a6769e007d87.jpeg",
     "description": "قطع دجاج - صلصة الجبن والفطر والذرة - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -490,7 +490,7 @@
     "name": "طبق بركر دجاج",
     "category": "الدجاج",
     "price": 7000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/ed9d0161-3c71-481e-89a8-8b9bbc1a37a7.jpeg",
     "description": "شريحة بركر دجاج مشوية - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -499,7 +499,7 @@
     "name": "صدر دجاج باريكيو",
     "category": "الدجاج",
     "price": 7000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/c65d69a5-b780-481c-89c0-d499a1df88f3.jpeg",
     "description": "قطعتين صدر دجاج مشوي - صلصة الباربكيو - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -508,7 +508,7 @@
     "name": "صدر دجاج بالخردل",
     "category": "الدجاج",
     "price": 7500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/3506e49e-3b81-4376-a960-09fb767bf5cc.jpeg",
     "description": "قطعتين صدر دجاج مشوي - صلصة الخردل الخاصه - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -517,7 +517,7 @@
     "name": "دجاج ستراغنوف",
     "category": "الدجاج",
     "price": 7500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/6d90f9f4-be9d-4cc3-9139-c33177952ce3.jpeg",
     "description": "قطع دجاج - صلصة كريمه - فطر - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -526,7 +526,7 @@
     "name": "دجاج بصلصة الخضار",
     "category": "الدجاج",
     "price": 7000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/e089c4b0-1527-4f36-a301-7350006a1a0d.jpeg",
     "description": "قطعتين صدر دجاج مشوي - صلصة الخضار - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -535,7 +535,7 @@
     "name": "كوردن بلو",
     "category": "الدجاج",
     "price": 9000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/f7741d23-f413-4528-b512-ea20f8fa3556.jpeg",
     "description": "صدر دجاج كامل محشي جبن دايت وتيركي - صلصة خاصه - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -544,7 +544,7 @@
     "name": "صدر دجاج بالجبن",
     "category": "الدجاج",
     "price": 7000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/fe0290b5-851f-4de9-970e-7ff1c69cec1b.jpeg",
     "description": "قطعتين صدر دجاج مشوي - جبن موزريلا لايت - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -553,7 +553,7 @@
     "name": "ستيك لحم",
     "category": "اللحم",
     "price": 7000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/91936271-8521-44db-8ac6-6c7b3c673eef.jpeg",
     "description": "شريحتين لحم مشويه - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -562,7 +562,7 @@
     "name": "ستيك لحم باريكيو",
     "category": "اللحم",
     "price": 8000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/9635fec0-24c4-4fc0-99dd-41339c316b8e.jpeg",
     "description": "شريحتين لحم مشويه - صلصة الباريكيو - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -571,7 +571,7 @@
     "name": "ستيك لحم بصلصة الخضار",
     "category": "اللحم",
     "price": 8000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/57f16806-0bd6-4859-9e3c-1aaa89e7fbb9.jpeg",
     "description": "شريحتين لحم مشوية - صلصة الخضار - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -580,7 +580,7 @@
     "name": "ستيك لحم بالفطر",
     "category": "اللحم",
     "price": 8000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/5e8e6033-32e6-4adf-aed7-1cf25ca082cd.jpeg",
     "description": "شريحتين لحم مشوية - صلصة الفطر - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -589,7 +589,7 @@
     "name": "ستيك لحم بالجبنة",
     "category": "اللحم",
     "price": 8000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/e9840075-3b19-4f61-8d30-c3dadf43243e.jpeg",
     "description": "شريحتين لحم مشوي - جبن شدر لايت - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -598,7 +598,7 @@
     "name": "ستيك لحم بالفلفل",
     "category": "اللحم",
     "price": 8000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/e4d61d32-1478-49d8-bd04-88b7e2b5ea1d.jpeg",
     "description": "شريحتين لحم مشويه - صلصة الفلفل الاسود - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -607,7 +607,7 @@
     "name": "بيف ستراغنوف",
     "category": "اللحم",
     "price": 8500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/e650ef5d-e467-47fc-814a-31b27af940f1.jpeg",
     "description": "قطع لحم - صلصة كريمه - فطر - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -616,7 +616,7 @@
     "name": "فيلادلفيا",
     "category": "اللحم",
     "price": 8000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/432d2f77-98dc-4bd7-9d4c-5c88cbfb96bd.jpeg",
     "description": "قطع لحم - فلفل اخضر - بصل - فطر - ذرة - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -625,7 +625,7 @@
     "name": "فاهيتا لحم",
     "category": "اللحم",
     "price": 8000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/240ccbed-a884-4b3c-9ae7-7c55c8f54dea.jpeg",
     "description": "قطع لحم - فلفل الوان - بصل - فطر - ذرة - فاصوليا حمراء - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -634,7 +634,7 @@
     "name": "كفتة",
     "category": "اللحم",
     "price": 10000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/c9549b8c-818a-4cba-8758-776850fb42bb.jpeg",
     "description": "كرات لحم بالتتبيلة الخاصه - صلصة الطماطم - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -643,7 +643,7 @@
     "name": "طبق بركر لحم",
     "category": "اللحم",
     "price": 8000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/447514a1-fa9f-4775-8197-b8bd592adf81.jpeg",
     "description": "شريحة بركر لحم مشوية - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -652,7 +652,7 @@
     "name": "سمك فيلية",
     "category": "السمك",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/b1db163d-0301-4f89-8faf-d09c7a0431d6.jpeg",
     "description": "شريحة سمك فيليه متبلة - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -661,7 +661,7 @@
     "name": "تونا",
     "category": "السمك",
     "price": 6000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/ab79cff9-0188-472e-85de-f6d2e95a9de9.jpeg",
     "description": "تونا خالية من الزيت - جزر - ذرة - فاصوليا حمرة - رز مبزول - ماش بتيتو - سلطة",
     "variants": []
   },
@@ -670,7 +670,7 @@
     "name": "ماء",
     "category": "المشروبات",
     "price": 500,
-    "imageUrl": "",
+    "imageUrl": "assets/images/WhatsApp_Image_2025-11-28_at_9.21.27_PM.jpeg",
     "description": "",
     "variants": []
   },
@@ -688,7 +688,7 @@
     "name": "كوكا كولا زيرو",
     "category": "المشروبات",
     "price": 750,
-    "imageUrl": "",
+    "imageUrl": "assets/images/WhatsApp_Image_2025-11-28_at_9.21.30_PM.jpeg",
     "description": "",
     "variants": []
   },
@@ -697,16 +697,16 @@
     "name": "شاي",
     "category": "المشروبات",
     "price": 1000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/WhatsApp_Image_2025-11-28_at_9.21.36_PM.jpeg",
     "description": "",
     "variants": []
   },
   {
     "id": 1764176045065,
-    "name": "قهوة",
-    "category": "المشروبات",
-    "price": 2000,
-    "imageUrl": "",
+    "name": "بركر دايت ستي",
+    "category": "البركر",
+    "price": 6000,
+    "imageUrl": "assets/images/9dda0fc9-9bc8-4f44-885e-8fcd62b402ad.jpeg",
     "description": "",
     "variants": []
   },
@@ -715,7 +715,7 @@
     "name": "برتقال وموز",
     "category": "العصائر",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/03b54a4a-d807-4fc3-a0ef-b2ea7c5ca88e.jpeg",
     "description": "",
     "variants": []
   },
@@ -724,7 +724,7 @@
     "name": "ليمون ونعناع",
     "category": "العصائر",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/a21f1e96-699f-43e6-b303-a31793d07f23.jpeg",
     "description": "",
     "variants": []
   },
@@ -733,7 +733,7 @@
     "name": "برتقال",
     "category": "العصائر",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/3d560e3c-aedc-49cf-b5c7-9ad23e8bd7a0.jpeg",
     "description": "",
     "variants": []
   },
@@ -742,7 +742,7 @@
     "name": "ليمون",
     "category": "العصائر",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/41b5c0bc-ff07-473a-bde0-43bbeb83df2a.jpeg",
     "description": "",
     "variants": []
   },
@@ -751,7 +751,7 @@
     "name": "موز",
     "category": "العصائر",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/fdcb0253-f47e-492a-913c-18fa14cb713b.jpeg",
     "description": "",
     "variants": []
   },
@@ -760,7 +760,7 @@
     "name": "برتقال وليمون",
     "category": "العصائر",
     "price": 3000,
-    "imageUrl": "",
+    "imageUrl": "assets/images/3d560e3c-aedc-49cf-b5c7-9ad23e8bd7a0.jpeg",
     "description": "",
     "variants": []
   }
