@@ -1,5 +1,9 @@
 [
   {
+    "name": "الدجاج",
+    "imageUrl": "assets/images/ed9d0161-3c71-481e-89a8-8b9bbc1a37a7.jpeg"
+  },
+  {
     "name": "السندويش",
     "imageUrl": "assets/images/58571b96-f452-481f-9809-b7a9c43b7cb5.jpeg"
   },
@@ -14,10 +18,6 @@
   {
     "name": "وجبات الافطار",
     "imageUrl": "assets/images/d67e8995-e50d-4747-b73c-00fc6f6787f2.jpeg"
-  },
-  {
-    "name": "الدجاج",
-    "imageUrl": "assets/images/ed9d0161-3c71-481e-89a8-8b9bbc1a37a7.jpeg"
   },
   {
     "name": "اللحم",
