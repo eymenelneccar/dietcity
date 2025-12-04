@@ -763,5 +763,222 @@
     "imageUrl": "assets/images/3d560e3c-aedc-49cf-b5c7-9ad23e8bd7a0.jpeg",
     "description": "",
     "variants": []
+  },
+{
+    "id": 1764839294175,
+    "name": "برياني دجاج",
+    "category": "اطباق الدجاج",
+    "price": 8000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839294109,
+    "name": "دجاج بالكاري",
+    "category": "اطباق الدجاج",
+    "price": 8000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293703,
+    "name": "برياني لحم",
+    "category": "اطباق اللحم",
+    "price": 9000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293506,
+    "name": "روبيان بالخضار",
+    "category": "الاسماك",
+    "price": 13000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293226,
+    "name": "ستيك سلمون",
+    "category": "الاسماك",
+    "price": 16000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293257,
+    "name": "سلمون بصلصة الليمون",
+    "category": "الاسماك",
+    "price": 17000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293662,
+    "name": "فوتشيني الفريدو دجاج",
+    "category": "الباستا",
+    "price": 8000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293797,
+    "name": "سباغيتي بولونيز",
+    "category": "الباستا",
+    "price": 9500,
+    "imageUrl": "",
+    "description": "لحم مثروم",
+    "variants": []
+  },
+  {
+    "id": 1764839294170,
+    "name": "باستا بالجبن",
+    "category": "الباستا",
+    "price": 7000,
+    "imageUrl": "",
+    "description": "بينة",
+    "variants": []
+  },
+  {
+    "id": 1764839293777,
+    "name": "سباغيتي بكرات اللحم",
+    "category": "الباستا",
+    "price": 10000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293650,
+    "name": "روبيان فوتشيني",
+    "category": "الباستا",
+    "price": 12000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293873,
+    "name": "بينة روزية دجاج",
+    "category": "الباستا",
+    "price": 9000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293548,
+    "name": "كومبير كلاسك",
+    "category": "كومبير",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293312,
+    "name": "كومبير دجاج",
+    "category": "كومبير",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293648,
+    "name": "كومبير لحم",
+    "category": "كومبير",
+    "price": 7000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293851,
+    "name": "سلطة افوكادو",
+    "category": "المقبلات",
+    "price": 7500,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839294008,
+    "name": "سلطة روبيان",
+    "category": "المقبلات",
+    "price": 9000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293586,
+    "name": "سلطة يونانية",
+    "category": "المقبلات",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293496,
+    "name": "سلطة بيروتية",
+    "category": "المقبلات",
+    "price": 4000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293696,
+    "name": "فتوش",
+    "category": "المقبلات",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293713,
+    "name": "زيتون متبل",
+    "category": "المقبلات",
+    "price": 4000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293444,
+    "name": "خضار مسلوقة",
+    "category": "المقبلات",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293497,
+    "name": "سلطة روسية",
+    "category": "المقبلات",
+    "price": 3000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764839293906,
+    "name": "سلطة البروكلي",
+    "category": "المقبلات",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
   }
+
 ]
