@@ -764,10 +764,10 @@
     "description": "",
     "variants": []
   },
-{
+  {
     "id": 1764839294175,
     "name": "برياني دجاج",
-    "category": "اطباق الدجاج",
+    "category": "الدجاج",
     "price": 8000,
     "imageUrl": "",
     "description": "",
@@ -776,7 +776,7 @@
   {
     "id": 1764839294109,
     "name": "دجاج بالكاري",
-    "category": "اطباق الدجاج",
+    "category": "الدجاج",
     "price": 8000,
     "imageUrl": "",
     "description": "",
@@ -785,7 +785,7 @@
   {
     "id": 1764839293703,
     "name": "برياني لحم",
-    "category": "اطباق اللحم",
+    "category": "اللحم",
     "price": 9000,
     "imageUrl": "",
     "description": "",
@@ -794,7 +794,7 @@
   {
     "id": 1764839293506,
     "name": "روبيان بالخضار",
-    "category": "الاسماك",
+    "category": "السمك",
     "price": 13000,
     "imageUrl": "",
     "description": "",
@@ -803,7 +803,7 @@
   {
     "id": 1764839293226,
     "name": "ستيك سلمون",
-    "category": "الاسماك",
+    "category": "السمك",
     "price": 16000,
     "imageUrl": "",
     "description": "",
@@ -812,7 +812,7 @@
   {
     "id": 1764839293257,
     "name": "سلمون بصلصة الليمون",
-    "category": "الاسماك",
+    "category": "السمك",
     "price": 17000,
     "imageUrl": "",
     "description": "",
@@ -980,5 +980,4 @@
     "description": "",
     "variants": []
   }
-
 ]
